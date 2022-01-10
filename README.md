@@ -13,7 +13,7 @@ Prequistence: 1. Install the app from Googleplaystore in mobile to stream video 
 
 STEP 1: Install & import the libraries
 STEP 2: Run the GPU code to make the model to run on GPU (optional if you are using GPU)
-STEP 3: Load the hub model
+STEP 3: Load the MoveNet model
 STEP 4: Run all the defined Functions ( loop_through_people, draw_keypoints, EDGES, draw_connections )
 STEP 5: Paste the ipv4 link in < cap = cv2.VideoCapture('**paste_the_link_here**/video') >
 STEP 6: Run the cell
