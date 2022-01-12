@@ -1,7 +1,3 @@
-# See the new pose estimation TFLite Android sample [here](../../pose_estimation/android), which demonstrates both Posenet and Movenet models. This old Posenet sample will no longer be maintained.
-
-<br/> <br/> <br/> <br/>
-
 ## TensorFlow Lite PoseNet Android Demo
 
 ### Overview
@@ -52,9 +48,4 @@ Downloading, extraction and placement in assets folder has been managed
 If you explicitly want to download the model, you can download it from
  **[here](
  https://storage.googleapis.com/download.tensorflow.org/models/tflite/posenet_mobilenet_v1_100_257x257_multi_kpt_stripped.tflite)**.
-
-### Additional Note
-_Please do not delete the assets folder content_. If you explicitly deleted the
- files, then please choose `Build` > `Rebuild` from menu to re-download the
- deleted model files into assets folder.
 
